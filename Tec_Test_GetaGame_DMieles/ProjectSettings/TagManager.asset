@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CrashMode
+  - Checkpoint
+  - AI
+  - Path
+  - PUSpeed
   layers:
   - Default
   - TransparentFX
@@ -13,13 +18,13 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - PostProcessing
+  - Ground
+  - Environment
+  - Track
+  - CrashObject
+  - Kart
+  - TrainingCheckpoints
   - 
   - 
   - 
